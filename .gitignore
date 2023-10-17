@@ -38,3 +38,4 @@ __pycache__
 make_targets.cache
 /bin/*.vars
 .DS_Store
+/gardenlinux-upstream.iml
